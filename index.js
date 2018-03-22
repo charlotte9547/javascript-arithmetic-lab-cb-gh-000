@@ -2,5 +2,5 @@ function add(a,b) {
   return (a+b);
 }
 function multiply (a,b) {
-  return (axb);
+  return (a * b);
 }
