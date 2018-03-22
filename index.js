@@ -14,7 +14,7 @@ var n
 function inc (n) {
   return n += 1
 }
-var n 
+var n
 function dec (n) {
   return n -= 1
 }
